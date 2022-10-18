@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* start_header */
+    header{
+        background-color: #FFF;
+        position: relative;
+    }
+
+    #title{
+        display: inline-block;
+        position: absolute;
+        top: 15%;
+        font-size: 35px;
+        font-s
+    }
+
+    #logo{
+        padding: 5px 0 0 10px;
+    }
+
+/* end_header */
+
+/* start_main */
+    .container{
+        width: 1000px;
+        margin: auto;
+    }
+
+    
+
+
+/* end_main */
