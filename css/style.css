@@ -32,11 +32,18 @@ strong{
     color: #81CCBA;
 }
 
-#special{
+.wrong{
+    font-size: 10px;
+    padding: 2px;
+    border-radius: 50%;
+    border: 1px solid #ED7570;
+    color: #ED7570;
+}
+
+.special{
     font-size: 9px;
     color: #FFF;
     border: transparent;
-    background-color:#45ABEA ;
     padding: 6px 9px;
     border-radius: 9px;
 }
@@ -94,6 +101,7 @@ strong{
 
     .container-list{
         background-color: #FFF;
+        padding-bottom: 25px;
     }
 
     ul{
@@ -115,3 +123,29 @@ strong{
     }
 
 /* end_main */
+
+/* color */
+
+.blue{
+    background-color:#45ABEA;
+}
+
+.violet{
+    background-color: #9C72E4;
+}
+
+.green{
+    background-color: #64C0A9;
+}
+
+.orange{
+    background-color: #F29E33;
+}
+
+.purple{
+    background-color: #D863A1;
+}
+
+.lightgreen{
+    background-color: #B0C926;
+}
