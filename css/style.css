@@ -20,13 +20,11 @@ body{
         position: absolute;
         top: 15%;
         font-size: 35px;
-        font-s
     }
 
     #logo{
         padding: 5px 0 0 10px;
     }
-
 /* end_header */
 
 /* start_main */
@@ -35,7 +33,34 @@ body{
         margin: auto;
     }
 
-    
+    .utily{
+        margin-top: 40px;
+        background-color: #FFF;
+        padding: 20px 0 10px 40px;
+        border-bottom: 2px solid #F6F8F9 ;
+        border-radius: 5px 5px 0 0;
+    }
 
+    #button1{
+        font-size: 10px;
+        padding: 5px 8px;
+        background-color: #47ADF1;
+        color: #FFF;
+        border: transparent;
+        border-radius: 3px;
+    }
+
+    #button2{
+        font-size: 10px;
+        padding: 3px 6px;
+        background-color: #FFF;
+        color: #DEE1E4;
+        border-color:#DEE1E4;
+        border-radius: 3px;
+    }
+
+    .main-table{
+        background-color: #FFF;
+    }
 
 /* end_main */
