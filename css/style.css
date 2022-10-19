@@ -70,7 +70,7 @@ strong{
 
 /* start_main */
     .container{
-        width: 1000px;
+        width: 75%;
         margin: auto;
     }
 
@@ -103,11 +103,15 @@ strong{
     .container-list{
         background-color: #FFF;
         padding-bottom: 25px;
+        padding-left: 40px;
     }
 
     ul{
         list-style-type: none;
-        padding: 25px 5px 0 40px;
+    }
+
+    li{
+        padding: 10px 0;
     }
 
     .space-bottom{
