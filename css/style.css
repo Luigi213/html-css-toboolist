@@ -18,6 +18,7 @@ body{
     border-top: 5px solid #444851;
     display: inline-block;
     margin-right: 5px;
+    margin-bottom: 2px;
 }
 
 strong{
@@ -52,18 +53,18 @@ strong{
 /* start_header */
     header{
         background-color: #FFF;
-        position: relative;
-    }
-
-    #title{
-        display: inline-block;
-        position: absolute;
-        top: 15%;
-        font-size: 35px;
+        padding: 10px 25px;
+        height: 70px;
     }
 
     #logo{
-        padding: 5px 0 0 10px;
+        height: 100%;
+        vertical-align: middle;
+    }
+    
+    header span{
+        font-size: 30px;
+        vertical-align: middle;
     }
 /* end_header */
 
